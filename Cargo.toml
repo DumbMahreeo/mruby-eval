@@ -1,0 +1,13 @@
+[package]
+name = "mruby-eval"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/DumbMahreeo/mruby-eval"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.59.1"
